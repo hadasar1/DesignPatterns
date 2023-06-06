@@ -1,0 +1,68 @@
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\bin\Debug\FoodMachine.exe.config
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\bin\Debug\FoodMachine.exe
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\bin\Debug\FoodMachine.pdb
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.exe
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\desighn patterns\FoodMachine\obj\Debug\FoodMachine.pdb
+D:\FoodMachine\bin\Debug\FoodMachine.exe
+D:\FoodMachine\bin\Debug\FoodMachine.exe.config
+D:\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+D:\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+D:\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+D:\FoodMachine\obj\Debug\FoodMachine.payment.resources
+D:\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+D:\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+D:\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+D:\FoodMachine\obj\Debug\FoodMachine.exe
+D:\FoodMachine\obj\Debug\FoodMachine.pdb
+D:\FoodMachine\bin\Debug\FoodMachine.pdb
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.payment.resources
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.exe
+H:\DesighnPattern-part-2-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.pdb
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.payment.resources
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.exe
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.pdb
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe.config
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe
+C:\Users\malka\Desktop\todo-main\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.pdb
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe.config
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.pdb
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.payment.resources
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.exe
+E:\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.pdb
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe.config
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.exe
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\bin\Debug\FoodMachine.pdb
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.AssemblyReference.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Form1.resources
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.payment.resources
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.Properties.Resources.resources
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.GenerateResource.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.csproj.CoreCompileInputs.cache
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.exe
+C:\Users\hadas\OneDrive\מסמכים\הנדסאים\שנה ב\מלכה שמש\todo-main\DesighnPattern-part-2-main\FoodMachine\obj\Debug\FoodMachine.pdb
